@@ -10,7 +10,7 @@ export default function Home() {
       <div class={tw`flex justify-end bg-purple-200 items-center`}>
        <section class={tw`w-full min-h-screen flex justify-center items-center flex-col bg-purple-200`}>
         <p class={tw`text-3xl pb-10 font-bold`}>Ancient Futures</p>
-        <a href="/" class={tw`border-1 border-black inline-flex items-center h-10 px-4 m-4 text-black bg-transparent rounded hover:bg-white`}>
+        <a href="https://github.com/ancientfutures" class={tw`border-1 border-black inline-flex items-center h-10 px-4 m-4 text-black bg-transparent rounded hover:bg-white`}>
         Documentation
        </a>
       </section>
