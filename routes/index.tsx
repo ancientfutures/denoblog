@@ -16,7 +16,7 @@ export default function Home() {
           <div class={tw`w-full min-h-screen flex justify-center items-center flex-col bg-purple-200`}>
             <p class={tw`text-3xl pb-6 font-bold`}>Ancient Futures</p>
             <a href="https://github.com/ancientfutures" class={tw`border-1 border-black inline-flex items-center h-10 px-4 m-4 text-black bg-transparent rounded hover:bg-white`}>
-            Documentation
+            Read Me
             </a>
           </div>
         </div>
